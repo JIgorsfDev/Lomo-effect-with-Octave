@@ -50,7 +50,7 @@ Aplicar os conceitos estudados na disciplina de Computação Gráfica por meio d
 
 - GNU Octave GUI
 
-### 🇧🇷 Português
+---
 
 #### Linguagem
 
