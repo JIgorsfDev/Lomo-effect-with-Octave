@@ -23,7 +23,7 @@ O trabalho teve como objetivo implementar um dos temas propostos durante a disci
 - 🎨 Enhances image colors and contrast.
 - 🌑 Adds a vignette effect.
 - 🖼️ Demonstrates digital image processing techniques using GNU Octave.
-
+---
 - 📷 Aplicação do efeito Lomo em imagens digitais.
 - 🎨 Ajuste de cores e contraste.
 - 🌑 Aplicação do efeito de vinheta.
